@@ -1,4 +1,17 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+'''
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+'''
+
+'''
+javascript
+var myVar = "Hello, world!";
+'''
+
+'''
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+'''
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
