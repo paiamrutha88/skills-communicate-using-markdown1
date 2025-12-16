@@ -8,6 +8,8 @@
 -->
 
 # Communicate using Markdown
+# adding a header
+## adding another header
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
